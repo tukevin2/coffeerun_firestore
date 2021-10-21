@@ -1,2 +1,2 @@
 # coffeerun_firestore
-CoffeeRun with Firestore Working
+Completed Homework #4 - CoffeeRun with Firestore Working
